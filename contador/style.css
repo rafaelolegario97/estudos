@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 100vh;
+    background-color: rgb(24, 32, 59);
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+}
+
